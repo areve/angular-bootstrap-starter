@@ -13,7 +13,7 @@ A starter project that combines the following for starting building your website
 
 ## To Install
 
-To download this package run `npm install angular-bootstrap-starter`
+To download this package run `npm install angular-bootstrap-starter`, the files will be downloaded to **node_modules/angular-bootstrap-starter** copy the files from there or use that as your working directory.
 
 To get started you need gulp, grunt and bower installed then run `npm install -g grunt grunt-cli gulp bower` (grunt and bower are used by dependencies).
 
